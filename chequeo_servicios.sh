@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Cramos le directorio si no existe
 mkdir -p ~/laboratorio/logs/
 
 LOG=~/laboratorio/logs/script.log
